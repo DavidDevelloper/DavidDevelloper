@@ -53,3 +53,11 @@ Experiencia en lógica de negocio, persistencia de datos y diseño de servicios 
 
 - 💼 Open to backend / database / APEX opportunities  
 - 🌎 Open to remote or on-site roles
+
+- ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
